@@ -21,4 +21,4 @@ Insights from Analysis:
 
 ## Conclusion to improve store sales:
 
-- Target women customers of ge group (30-49 yrs) living in Maharashtra, Karnataka and uttarpradesh by showing ads/offers/coupons available on amazon,Flipkart and Myntra. 
+- Target women customers of age group (30-49 yrs) living in Maharashtra, Karnataka and uttarpradesh by showing ads/offers/coupons available on amazon,Flipkart and Myntra. 
